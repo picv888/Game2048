@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5EFC9448-83BB-4F37-97A9-C8FC7B1DF128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameSence.cs">
+    <Files>
+      <File FileName="GameSence.cs" Line="10" Column="26" />
+      <File FileName="ConsoleUIKit/ConsoleApplication.cs" Line="136" Column="1" />
+      <File FileName="gameRule.txt" Line="1" Column="1" />
+      <File FileName="MainSence.cs" Line="88" Column="33" />
+      <File FileName="Program.cs" Line="1" Column="14" />
+      <File FileName="SquareCell.cs" Line="49" Column="10" />
+      <File FileName="ConsoleUIKit/ConsoleSence.cs" Line="48" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Game2048" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Game2048 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{28F882E8-D3FC-4EAC-AF39-6E960A11F789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F882E8-D3FC-4EAC-AF39-6E960A11F789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F882E8-D3FC-4EAC-AF39-6E960A11F789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F882E8-D3FC-4EAC-AF39-6E960A11F789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F882E8-D3FC-4EAC-AF39-6E960A11F789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

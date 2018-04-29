@@ -1,0 +1,11 @@
+/Users/apple/VS-workspace/Game2048/Game2048/obj/Debug/netcoreapp2.0/Game2048.csproj.CoreCompileInputs.cache
+/Users/apple/VS-workspace/Game2048/Game2048/obj/Debug/netcoreapp2.0/Game2048.AssemblyInfoInputs.cache
+/Users/apple/VS-workspace/Game2048/Game2048/obj/Debug/netcoreapp2.0/Game2048.AssemblyInfo.cs
+/Users/apple/VS-workspace/Game2048/Game2048/bin/Debug/netcoreapp2.0/Game2048.deps.json
+/Users/apple/VS-workspace/Game2048/Game2048/bin/Debug/netcoreapp2.0/Game2048.runtimeconfig.json
+/Users/apple/VS-workspace/Game2048/Game2048/bin/Debug/netcoreapp2.0/Game2048.runtimeconfig.dev.json
+/Users/apple/VS-workspace/Game2048/Game2048/bin/Debug/netcoreapp2.0/Game2048.dll
+/Users/apple/VS-workspace/Game2048/Game2048/bin/Debug/netcoreapp2.0/Game2048.pdb
+/Users/apple/VS-workspace/Game2048/Game2048/obj/Debug/netcoreapp2.0/Game2048.csprojResolveAssemblyReference.cache
+/Users/apple/VS-workspace/Game2048/Game2048/obj/Debug/netcoreapp2.0/Game2048.dll
+/Users/apple/VS-workspace/Game2048/Game2048/obj/Debug/netcoreapp2.0/Game2048.pdb
